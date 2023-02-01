@@ -1,0 +1,8 @@
+#########################################
+Template Sort Library
+	Dmytro Fedkiv <catus2900@gmail.com>
+#########################################
+
+All sorting algorithms are implemented as templated classes.
+Only classes that have implemented indexing operators can be sorted.
+For static C style arrays use ArrayAccessor as a wrapper class.
